@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruhola
-- 👀 I’m interested in makin my own website.
+- 👀 I’m interested in making my own website.
 - 🌱 I’m currently learning python.
 
 <!---
